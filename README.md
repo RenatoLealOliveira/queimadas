@@ -1,3 +1,7 @@
+Projeto realizado com base na aula Imersão dev da Alura e Google, utilziando o Google Gemini.
+
+Link do projeot na Versel: https://queimadas-steel.vercel.app/
+
 **O que esse projeto faz:**
 
 Esse site simples permite que você pesquise por informações sobre queimadas no Brasil. Basta digitar o nome de uma cidade no campo de busca e o site exibirá notícias e dados relevantes sobre incêndios florestais nessa região.
